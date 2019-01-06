@@ -1,11 +1,9 @@
-# Cohort Analysis
-### : *Customer segmentation with RFM*
+# Customer segmentation with RFM
+### : *Marketing analysis with RFM values on customer purchase data and customer segmentation using K-means*
 
-Marketing analysis with RFM values on customer purchase data and customer segmentation using K-means
+- **Applied skills:** K-means clustering, visualization with matplotlib & seaborn  
 
-* **Applied skills:** K-means clustering, visualization with matplotlib & seaborn  
-
-* **Publication:** https://towardsdatascience.com/who-is-your-golden-goose-cohort-analysis-50c9de5dbd31
+- **Publication:** "[Who Is Your Golden Goose?: Cohort Analysis](https://towardsdatascience.com/who-is-your-golden-goose-cohort-analysis-50c9de5dbd31)", Jan 6. 2019, Medium
 
 - **Cohort_Anaylsis_Medium.ipynb:** Code script for the blog post on Medium
 
