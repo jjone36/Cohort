@@ -12,7 +12,7 @@ This analysis is focused on two steps getting the RFM values and making clusters
 
 - **Project Date:** Dec, 2018
 
-- **Applied skills:** K-means clustering, visualization with matplotlib & seaborn  
+- **Applied skills:** Data Manipulation. RFM analysis. K-means clustering, Visualization with Seaborn & Plotly  
 
 - **Publication:** "[Who Is Your Golden Goose?: Cohort Analysis](https://towardsdatascience.com/who-is-your-golden-goose-cohort-analysis-50c9de5dbd31)", Jan 6. 2019, Medium
 
