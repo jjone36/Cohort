@@ -6,7 +6,7 @@
 ## ***1. Who Is Your Golden Goose?***
 Customer segmentation is the technique of diving customers into groups based on their purchase patterns to identify who are the most profitable groups. In segmenting customers, various criteria can also be used depending on the market such as geographic, demographic characteristics or behavior bases. This technique assumes that groups with different features require different approaches to marketing and wants to figure out the groups who can boost their profitability the most.
 
-![cohort](https://github.com/jjone36/jjone36.github.io/blob/master/images/icons/cohort.jpg)
+![cohort](https://github.com/jjone36/Cohort/blob/master/cohort.jpg)
 
 This analysis is focused on two steps getting the RFM values and making clusters with K-means algorithms. Online retail data is used, which is available at [UCI ML repo](https://www.kaggle.com/jihyeseo/online-retail-data-set-from-uci-ml-repo). The original resource of this note is from the course “[Customer Segmentation Analysis in Python](https://www.datacamp.com/courses/customer-segmentation-in-python)” on DataCamp.
 
